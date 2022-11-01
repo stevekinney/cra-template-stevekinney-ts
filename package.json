@@ -1,0 +1,31 @@
+{
+  "name": "cra-template-stevekinney-ts",
+  "version": "1.0.0",
+  "author": {
+    "name": "Steve Kinney",
+    "email": "hello@stevekinney.net",
+    "url": "https://stevekinney.net"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "license": "MIT",
+  "description": "Template for an example application for one of Steve Kinney's workshops",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevekinney/cra-template-stevekinney-ts"
+  },
+  "bugs": {
+    "url": "https://github.com/stevekinney/cra-template-stevekinney-ts/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
